@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T07:43:12.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="vHJeKopLKZR5jITr9Aiv" version="14.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-03T07:45:56.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="0qN19w9UjMvzJw_48508" version="14.2.4" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="List promotion banner">
     <mxGraphModel dx="3067" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -459,8 +459,8 @@
         <mxCell id="CAwCmJzV1L5FeY43zPaw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0bNLgnLgEfnWTaaoX70--1" source="aI3IfpCvKIVzbMFJyRmF-19" target="CAwCmJzV1L5FeY43zPaw-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aI3IfpCvKIVzbMFJyRmF-19" value="Retrieve the data from database and display the data on the form" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="0bNLgnLgEfnWTaaoX70--1">
-          <mxGeometry x="-460" y="580" width="129.75" height="65.01" as="geometry" />
+        <mxCell id="aI3IfpCvKIVzbMFJyRmF-19" value="Retrieve the data from database, display the data on the form and add the is active selection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="0bNLgnLgEfnWTaaoX70--1">
+          <mxGeometry x="-510" y="580" width="179.75" height="65.01" as="geometry" />
         </mxCell>
         <mxCell id="FXzbCEzKb0EYC3M5p2Pf-1" value="Change Banner Type" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0bNLgnLgEfnWTaaoX70--1" source="aI3IfpCvKIVzbMFJyRmF-73" target="FXzbCEzKb0EYC3M5p2Pf-3">
           <mxGeometry x="-0.1694" y="-15" relative="1" as="geometry">
@@ -535,8 +535,8 @@
         <mxCell id="FXzbCEzKb0EYC3M5p2Pf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0bNLgnLgEfnWTaaoX70--1" source="FXzbCEzKb0EYC3M5p2Pf-7" target="CAwCmJzV1L5FeY43zPaw-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FXzbCEzKb0EYC3M5p2Pf-7" value="Display new form for add banner" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="0bNLgnLgEfnWTaaoX70--1">
-          <mxGeometry x="-200" y="592.5" width="120" height="40" as="geometry" />
+        <mxCell id="FXzbCEzKb0EYC3M5p2Pf-7" value="Display new form for add banner without is active selection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="0bNLgnLgEfnWTaaoX70--1">
+          <mxGeometry x="-195" y="593.75" width="180" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="FXzbCEzKb0EYC3M5p2Pf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0bNLgnLgEfnWTaaoX70--1" source="FXzbCEzKb0EYC3M5p2Pf-8" target="FXzbCEzKb0EYC3M5p2Pf-9">
           <mxGeometry relative="1" as="geometry" />
