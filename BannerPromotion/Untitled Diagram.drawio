@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T07:45:56.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="0qN19w9UjMvzJw_48508" version="14.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-03T07:47:51.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="Cb0ePPhg_tSA9qowAcE4" version="14.2.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="List promotion banner">
     <mxGraphModel dx="3067" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,8 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Show error page" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-90" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OHB6ys-uSXkvLDU8gWH5-2" value="List promotion banner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-250" y="80" width="150" height="20" as="geometry" />
+        <mxCell id="OHB6ys-uSXkvLDU8gWH5-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;List promotion banner&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-870" y="60" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OHB6ys-uSXkvLDU8gWH5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OHB6ys-uSXkvLDU8gWH5-5" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry" />
@@ -362,22 +362,6 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="1bKna28vOYxh1B9_zXPH" name="EditBanner">
-    <mxGraphModel dx="989" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="hpqJDtrSty6_vaOXXpcq-0" />
-        <mxCell id="hpqJDtrSty6_vaOXXpcq-1" parent="hpqJDtrSty6_vaOXXpcq-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="JnzNezMiu6MFuoqiwC6X" name="DeleteBanner">
-    <mxGraphModel dx="989" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="i9s_to2VOu1_OZeufu1O-0" />
-        <mxCell id="i9s_to2VOu1_OZeufu1O-1" parent="i9s_to2VOu1_OZeufu1O-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="NqCH0Zwg1SrBa_VqJtBC" name="AddBanner/EditBanner">
     <mxGraphModel dx="1991" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -399,8 +383,8 @@
         <mxCell id="aI3IfpCvKIVzbMFJyRmF-3" value="Show error page" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="0bNLgnLgEfnWTaaoX70--1">
           <mxGeometry x="-170" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aI3IfpCvKIVzbMFJyRmF-4" value="Add Bannner Promoiton" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0bNLgnLgEfnWTaaoX70--1">
-          <mxGeometry x="-330" y="40" width="150" height="20" as="geometry" />
+        <mxCell id="aI3IfpCvKIVzbMFJyRmF-4" value="Add / Edit Bannner Promotion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="0bNLgnLgEfnWTaaoX70--1">
+          <mxGeometry x="-827" y="10" width="407" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aI3IfpCvKIVzbMFJyRmF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0bNLgnLgEfnWTaaoX70--1" source="aI3IfpCvKIVzbMFJyRmF-6" target="aI3IfpCvKIVzbMFJyRmF-1">
           <mxGeometry relative="1" as="geometry" />
