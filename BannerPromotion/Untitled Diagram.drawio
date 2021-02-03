@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T11:11:46.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="57yavY3b6GJelCG-iTwp" version="14.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-03T11:12:20.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="nmfJc0MNDwaghWMiJ-ar" version="14.2.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="List promotion banner">
     <mxGraphModel dx="3784" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -359,12 +359,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NqCH0Zwg1SrBa_VqJtBC" name="AddBanner/EditBanner">
-    <mxGraphModel dx="2381" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3690" dy="3089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0bNLgnLgEfnWTaaoX70--0" />
         <mxCell id="0bNLgnLgEfnWTaaoX70--1" parent="0bNLgnLgEfnWTaaoX70--0" />
         <mxCell id="YX9VAXvCANHtXinaRo2y-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="0bNLgnLgEfnWTaaoX70--1" vertex="1">
-          <mxGeometry x="270" y="-150" width="1240" height="1240" as="geometry" />
+          <mxGeometry x="-1041.04" y="-10" width="1550" height="1550" as="geometry" />
         </mxCell>
         <mxCell id="wXBeQ5rpvf1bCKowuPl_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="0bNLgnLgEfnWTaaoX70--1" source="aI3IfpCvKIVzbMFJyRmF-1" target="aI3IfpCvKIVzbMFJyRmF-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
