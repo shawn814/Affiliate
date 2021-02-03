@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T06:56:22.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="n96RmFdNUdy11n0lbrcp" version="14.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-03T06:56:37.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="0uqKIDDMGEZ3x8RmfQif" version="14.2.4" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="List promotion banner">
     <mxGraphModel dx="4127" dy="1370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -363,7 +363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1bKna28vOYxh1B9_zXPH" name="EditBanner">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hpqJDtrSty6_vaOXXpcq-0" />
         <mxCell id="hpqJDtrSty6_vaOXXpcq-1" parent="hpqJDtrSty6_vaOXXpcq-0" />
@@ -378,8 +378,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="NqCH0Zwg1SrBa_VqJtBC" name="DisplayBanner">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="NqCH0Zwg1SrBa_VqJtBC" name="AddBanner">
+    <mxGraphModel dx="1413" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0bNLgnLgEfnWTaaoX70--0" />
         <mxCell id="0bNLgnLgEfnWTaaoX70--1" parent="0bNLgnLgEfnWTaaoX70--0" />
