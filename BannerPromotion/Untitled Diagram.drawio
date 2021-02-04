@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T02:45:24.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Pif7FHMGt0Wfdh3XmuWz" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-04T02:46:49.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="v5QAy6I9T88ulWos7G5m" version="14.2.9" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="List promotion banner">
-    <mxGraphModel dx="3156" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3156" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -337,12 +337,12 @@
         <mxCell id="OHB6ys-uSXkvLDU8gWH5-87" value="Confirm &lt;br&gt;to change the status" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-659.26" y="780" width="98.52" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OHB6ys-uSXkvLDU8gWH5-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OHB6ys-uSXkvLDU8gWH5-93" edge="1">
+        <mxCell id="OHB6ys-uSXkvLDU8gWH5-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OHB6ys-uSXkvLDU8gWH5-93" edge="1" target="OHB6ys-uSXkvLDU8gWH5-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-320" y="600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-610" y="540" />
-              <mxPoint x="-320" y="540" />
+              <mxPoint x="-340" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
