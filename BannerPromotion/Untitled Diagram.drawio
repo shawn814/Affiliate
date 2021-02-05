@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T06:40:35.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="9xegZnLUPt_3QEF1HhPw" version="14.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-05T06:57:06.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="SrEdjGV8XCEY1-1dVoBm" version="14.2.9" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="List promotion banner">
     <mxGraphModel dx="2932" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1219,7 +1219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HG0SFzjKTNRUJT7bDMJP" name="[Improvise] add/edit banner">
-    <mxGraphModel dx="3158" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2535" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8krc5oD3bzcBT1-9P3Ui-0" />
         <mxCell id="8krc5oD3bzcBT1-9P3Ui-1" parent="8krc5oD3bzcBT1-9P3Ui-0" />
@@ -2418,8 +2418,66 @@
         <mxCell id="EY1dhQ5jRe6_CTilMCsa-0" value="Get banner menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="8krc5oD3bzcBT1-9P3Ui-1">
           <mxGeometry x="2778.13" y="2230" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8krc5oD3bzcBT1-9P3Ui-1" source="EY1dhQ5jRe6_CTilMCsa-1" target="cA9njdK3zD6AOT-Z3UDv-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EY1dhQ5jRe6_CTilMCsa-1" value="Check data existance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="8krc5oD3bzcBT1-9P3Ui-1">
           <mxGeometry x="2778.13" y="2310" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-2" value="!=null" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8krc5oD3bzcBT1-9P3Ui-1" source="cA9njdK3zD6AOT-Z3UDv-0" target="cA9njdK3zD6AOT-Z3UDv-3">
+          <mxGeometry x="-0.1123" y="20" relative="1" as="geometry">
+            <mxPoint x="2990" y="2449.9999999999995" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-0" value="Banner menu data?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="8krc5oD3bzcBT1-9P3Ui-1">
+          <mxGeometry x="2788.13" y="2400" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8krc5oD3bzcBT1-9P3Ui-1" source="cA9njdK3zD6AOT-Z3UDv-3" target="cA9njdK3zD6AOT-Z3UDv-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3030" y="2509.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-3" value="Bind the data to drop down list" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="8krc5oD3bzcBT1-9P3Ui-1">
+          <mxGeometry x="2965" y="2425" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8krc5oD3bzcBT1-9P3Ui-1" source="cA9njdK3zD6AOT-Z3UDv-5" target="cA9njdK3zD6AOT-Z3UDv-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3030" y="2589.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-5" value="Enable down drop list for direction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="8krc5oD3bzcBT1-9P3Ui-1">
+          <mxGeometry x="2965" y="2500" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-11" value="&amp;gt;0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8krc5oD3bzcBT1-9P3Ui-1" source="cA9njdK3zD6AOT-Z3UDv-7" target="cA9njdK3zD6AOT-Z3UDv-12">
+          <mxGeometry x="0.0769" y="-20" relative="1" as="geometry">
+            <mxPoint x="2910" y="2690" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-7" value="Number of selected banner post" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="8krc5oD3bzcBT1-9P3Ui-1">
+          <mxGeometry x="2975" y="2640" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8krc5oD3bzcBT1-9P3Ui-1" source="cA9njdK3zD6AOT-Z3UDv-8" target="cA9njdK3zD6AOT-Z3UDv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-8" value="Check number of the banner post selected" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="8krc5oD3bzcBT1-9P3Ui-1">
+          <mxGeometry x="2965" y="2570" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8krc5oD3bzcBT1-9P3Ui-1" source="cA9njdK3zD6AOT-Z3UDv-12" target="cA9njdK3zD6AOT-Z3UDv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-12" value="Get the banner and check whether is active" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="8krc5oD3bzcBT1-9P3Ui-1">
+          <mxGeometry x="2802.5" y="2665" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-14" value="Insert banner info into banner menu drop down list" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="8krc5oD3bzcBT1-9P3Ui-1">
+          <mxGeometry x="2802.5" y="2830" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8krc5oD3bzcBT1-9P3Ui-1" source="cA9njdK3zD6AOT-Z3UDv-16" target="cA9njdK3zD6AOT-Z3UDv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-16" value="Banner is &lt;br&gt;active?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="8krc5oD3bzcBT1-9P3Ui-1">
+          <mxGeometry x="2823.75" y="2740" width="87.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
