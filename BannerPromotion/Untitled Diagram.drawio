@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T05:04:30.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="5Rd9msrUWgXqNTUU6UH1" version="14.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-05T05:06:23.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="6yA8BAsdDIzUxcNCrdRJ" version="14.2.9" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="List promotion banner">
     <mxGraphModel dx="2932" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -871,7 +871,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y3rFiXMqVDxSNEHg42ED" name="Page-3">
-    <mxGraphModel dx="8044" dy="2740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3158" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WPeLqhEiAU9pk5IytfSj-0" />
         <mxCell id="WPeLqhEiAU9pk5IytfSj-1" parent="WPeLqhEiAU9pk5IytfSj-0" />
@@ -1018,6 +1018,9 @@
         </mxCell>
         <mxCell id="WPeLqhEiAU9pk5IytfSj-139" value="Get the promotion data from database" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
           <mxGeometry x="1210" y="1020" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="WPeLqhEiAU9pk5IytfSj-141" target="MbaDkulbJ4-aDj8Xlahk-145">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPeLqhEiAU9pk5IytfSj-141" value="Bind promotion data to gridview" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
           <mxGeometry x="1210" y="1085" width="160" height="35" as="geometry" />
@@ -1372,6 +1375,82 @@
         </mxCell>
         <mxCell id="MbaDkulbJ4-aDj8Xlahk-139" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=#ffffff;fillColor=none;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
           <mxGeometry x="-216.26" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-152" target="MbaDkulbJ4-aDj8Xlahk-143">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1109.37" y="1530" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1294.37" y="1410" />
+              <mxPoint x="1129.37" y="1410" />
+              <mxPoint x="1129.37" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-143" value="Receive user &lt;br&gt;input" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=none;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
+          <mxGeometry x="1069.9399999999998" y="1440" width="117.96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-145" target="MbaDkulbJ4-aDj8Xlahk-151">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1273.12" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-145" value="Check every row of the banner&#39;s effective date and active status" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
+          <mxGeometry x="1224.38" y="1150" width="131.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-146" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-148">
+          <mxGeometry x="-0.0007" y="-13" relative="1" as="geometry">
+            <mxPoint x="1127.8599999999997" y="1350" as="targetPoint" />
+            <mxPoint x="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-147" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-148" target="MbaDkulbJ4-aDj8Xlahk-156">
+          <mxGeometry x="-0.04" y="-10" relative="1" as="geometry">
+            <mxPoint x="1020.8599999999999" y="1330" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-148" value="Banner&#39;s is active ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
+          <mxGeometry x="1080.86" y="1220" width="94.07" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-149" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-151" target="MbaDkulbJ4-aDj8Xlahk-148">
+          <mxGeometry x="0.0516" y="-15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-150" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-151" target="MbaDkulbJ4-aDj8Xlahk-152">
+          <mxGeometry x="-0.3324" y="22" relative="1" as="geometry">
+            <mxPoint x="1288.75" y="1340" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-151" value="Banner&#39;s is &lt;br&gt;exceed the effective &lt;br&gt;date ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
+          <mxGeometry x="1231.72" y="1220" width="118.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-152" value="Display N/A for the action" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
+          <mxGeometry x="1230.86" y="1350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-154" target="MbaDkulbJ4-aDj8Xlahk-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1128.37" y="1410" />
+              <mxPoint x="1128.37" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-154" value="Display edit and deactivation icon for action" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
+          <mxGeometry x="1088.12" y="1350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-156" target="MbaDkulbJ4-aDj8Xlahk-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1004.3699999999999" y="1410" />
+              <mxPoint x="1129.37" y="1410" />
+              <mxPoint x="1129.37" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-156" value="Display edit and activation icon for action" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
+          <mxGeometry x="944.3699999999999" y="1350" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
