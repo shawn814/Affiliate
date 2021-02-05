@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T05:06:23.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="6yA8BAsdDIzUxcNCrdRJ" version="14.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-05T05:09:05.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="1SwHxLuQGcHSIrK5QV-o" version="14.2.9" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="List promotion banner">
     <mxGraphModel dx="2932" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1386,6 +1386,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-168" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Click activation / deactivation button&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-143" target="MbaDkulbJ4-aDj8Xlahk-163">
+          <mxGeometry x="-0.1033" y="-25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MbaDkulbJ4-aDj8Xlahk-143" value="Receive user &lt;br&gt;input" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=none;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
           <mxGeometry x="1069.9399999999998" y="1440" width="117.96" height="50" as="geometry" />
         </mxCell>
@@ -1451,6 +1456,45 @@
         </mxCell>
         <mxCell id="MbaDkulbJ4-aDj8Xlahk-156" value="Display edit and activation icon for action" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
           <mxGeometry x="944.3699999999999" y="1350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-167" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-161" target="MbaDkulbJ4-aDj8Xlahk-164">
+          <mxGeometry x="-0.1364" y="-20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-169" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-161" target="MbaDkulbJ4-aDj8Xlahk-143">
+          <mxGeometry x="-0.8072" y="19" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="1179" />
+              <mxPoint x="910" y="1456" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-161" value="Confirm &lt;br&gt;to change the status" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
+          <mxGeometry x="740.74" y="1139" width="98.52" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-162" target="MbaDkulbJ4-aDj8Xlahk-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-162" value="Display confirmation message" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
+          <mxGeometry x="730" y="1245" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-163" target="MbaDkulbJ4-aDj8Xlahk-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-163" value="Change the active status" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
+          <mxGeometry x="730" y="1320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WPeLqhEiAU9pk5IytfSj-1" source="MbaDkulbJ4-aDj8Xlahk-164" target="WPeLqhEiAU9pk5IytfSj-131">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MbaDkulbJ4-aDj8Xlahk-164" value="Update the banner active status" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WPeLqhEiAU9pk5IytfSj-1">
+          <mxGeometry x="730" y="1055" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
