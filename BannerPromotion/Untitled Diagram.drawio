@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T03:07:28.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="nbd91xUCRvNzo9hD0UTj" version="14.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-08T03:08:46.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="2YtANutzBF3TxRJVMjIL" version="14.2.9" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="List promotion banner">
     <mxGraphModel dx="2932" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1219,7 +1219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HG0SFzjKTNRUJT7bDMJP" name="[Improvise] add/edit banner">
-    <mxGraphModel dx="-376" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-589" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8krc5oD3bzcBT1-9P3Ui-0" />
         <mxCell id="8krc5oD3bzcBT1-9P3Ui-1" parent="8krc5oD3bzcBT1-9P3Ui-0" />
@@ -2523,8 +2523,12 @@
         <mxCell id="r6B1aGnUEr-j8GxWU0oM-27" value="Uncheck radio button for popup,redirection and check no action" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="8krc5oD3bzcBT1-9P3Ui-1" vertex="1">
           <mxGeometry x="2346.0699999999997" y="5714.5599999999995" width="180.63" height="56.44" as="geometry" />
         </mxCell>
-        <mxCell id="r6B1aGnUEr-j8GxWU0oM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="8krc5oD3bzcBT1-9P3Ui-1" source="r6B1aGnUEr-j8GxWU0oM-29" target="r6B1aGnUEr-j8GxWU0oM-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="r6B1aGnUEr-j8GxWU0oM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="8krc5oD3bzcBT1-9P3Ui-1" source="r6B1aGnUEr-j8GxWU0oM-29" target="r6B1aGnUEr-j8GxWU0oM-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2326" y="5825" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="r6B1aGnUEr-j8GxWU0oM-29" value="Disable radio button for popup,redirection, no action and focus the video link textbox" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="8krc5oD3bzcBT1-9P3Ui-1" vertex="1">
           <mxGeometry x="2346.2499999999995" y="5798.119999999999" width="180.63" height="56.44" as="geometry" />
