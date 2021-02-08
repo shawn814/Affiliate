@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T06:35:35.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Bm7weFmNvWgzrI8M6Rw1" version="14.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-08T06:43:01.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="XulnngX6RJ31eg14qpfM" version="14.2.9" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="List promotion banner">
     <mxGraphModel dx="2932" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2156,6 +2156,13 @@
         <mxCell id="cA9njdK3zD6AOT-Z3UDv-210" value="Validation Input&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="8krc5oD3bzcBT1-9P3Ui-1" vertex="1">
           <mxGeometry x="3125.25" y="5204.99" width="82.27" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="V-t5VTd2sWnTUfZsTncB-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="8krc5oD3bzcBT1-9P3Ui-1" source="cA9njdK3zD6AOT-Z3UDv-212" target="cA9njdK3zD6AOT-Z3UDv-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2480" y="4931" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cA9njdK3zD6AOT-Z3UDv-212" value="Remove the video textbox, add image upload input and enable action selection&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="8krc5oD3bzcBT1-9P3Ui-1" vertex="1">
           <mxGeometry x="2390" y="5084.99" width="170" height="50" as="geometry" />
         </mxCell>
@@ -2508,7 +2515,7 @@
             <mxPoint x="2436.3849999999993" y="5814.56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r6B1aGnUEr-j8GxWU0oM-27" value="Uncheck radio button for popup,redirection and check no action" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="8krc5oD3bzcBT1-9P3Ui-1" vertex="1">
+        <mxCell id="r6B1aGnUEr-j8GxWU0oM-27" value="Uncheck radio button for popup,redirection and tick no action" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="8krc5oD3bzcBT1-9P3Ui-1" vertex="1">
           <mxGeometry x="2346.0699999999997" y="5714.5599999999995" width="180.63" height="56.44" as="geometry" />
         </mxCell>
         <mxCell id="r6B1aGnUEr-j8GxWU0oM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="8krc5oD3bzcBT1-9P3Ui-1" source="r6B1aGnUEr-j8GxWU0oM-29" target="r6B1aGnUEr-j8GxWU0oM-32" edge="1">
