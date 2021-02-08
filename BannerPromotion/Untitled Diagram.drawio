@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T03:05:52.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="grY2Bx9QLryJ6XfBM2bQ" version="14.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-08T03:07:28.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="nbd91xUCRvNzo9hD0UTj" version="14.2.9" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="List promotion banner">
     <mxGraphModel dx="2932" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1219,7 +1219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HG0SFzjKTNRUJT7bDMJP" name="[Improvise] add/edit banner">
-    <mxGraphModel dx="172" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-376" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8krc5oD3bzcBT1-9P3Ui-0" />
         <mxCell id="8krc5oD3bzcBT1-9P3Ui-1" parent="8krc5oD3bzcBT1-9P3Ui-0" />
@@ -2213,12 +2213,11 @@
         <mxCell id="cA9njdK3zD6AOT-Z3UDv-224" value="Check input validation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=#ffffff;" parent="8krc5oD3bzcBT1-9P3Ui-1" vertex="1">
           <mxGeometry x="3111.39" y="5124.99" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cA9njdK3zD6AOT-Z3UDv-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="8krc5oD3bzcBT1-9P3Ui-1" source="cA9njdK3zD6AOT-Z3UDv-226" target="cA9njdK3zD6AOT-Z3UDv-106" edge="1">
+        <mxCell id="cA9njdK3zD6AOT-Z3UDv-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="8krc5oD3bzcBT1-9P3Ui-1" source="cA9njdK3zD6AOT-Z3UDv-226" target="cA9njdK3zD6AOT-Z3UDv-106" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3292" y="5380" />
-              <mxPoint x="3522" y="5380" />
-              <mxPoint x="3522" y="4929" />
+              <mxPoint x="3540" y="5365" />
+              <mxPoint x="3540" y="4929" />
             </Array>
             <mxPoint x="3077.7959322033903" y="5034.12429378531" as="targetPoint" />
           </mxGeometry>
