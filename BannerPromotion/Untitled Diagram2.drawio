@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T04:13:54.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ocwzj5AxG2o3tURnEDeF" version="14.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-07T04:14:09.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="iqXivddzxZ2w5UAULHea" version="14.7.3" type="github" pages="2">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
     <mxGraphModel dx="2556" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -919,7 +919,7 @@
           <mxGeometry x="185" y="240" width="135" height="130" as="geometry" />
         </mxCell>
         <mxCell id="r6uyHHZdy3gZ8kFdjCn2-16" value="Training Scopes" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=43;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="r6uyHHZdy3gZ8kFdjCn2-1">
-          <mxGeometry x="50" y="30" width="700" height="70" as="geometry" />
+          <mxGeometry x="50" y="30" width="730" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r6uyHHZdy3gZ8kFdjCn2-17" value="&lt;h1&gt;Shiny team&lt;/h1&gt;&lt;p&gt;- Work on Promotion Banner module&lt;br&gt;- Work on OTP Registration module&lt;br&gt;- Attend training&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="r6uyHHZdy3gZ8kFdjCn2-1">
           <mxGeometry x="322.5" y="240" width="135" height="130" as="geometry" />
